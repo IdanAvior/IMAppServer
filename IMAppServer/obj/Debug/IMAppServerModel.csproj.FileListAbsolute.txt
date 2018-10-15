@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\IMAppServer.dll.config
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\IMAppServer.dll
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\IMAppServer.pdb
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\EntityFramework.dll
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\EntityFramework.xml
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\obj\Debug\IMAppServerModel.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\obj\Debug\IMAppServer.dll
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\obj\Debug\IMAppServer.pdb
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2017\Projects\IMAppServer\IMAppServer\bin\Debug\Newtonsoft.Json.xml

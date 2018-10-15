@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMAppServerModel", "IMAppServer\IMAppServerModel.csproj", "{3DB7FA00-6A79-41D2-ACB3-B55FC6F94441}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMServer", "IMServer\IMServer.csproj", "{DF69B0A0-865D-4875-B1CD-6E04E87D2735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB7FA00-6A79-41D2-ACB3-B55FC6F94441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB7FA00-6A79-41D2-ACB3-B55FC6F94441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB7FA00-6A79-41D2-ACB3-B55FC6F94441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB7FA00-6A79-41D2-ACB3-B55FC6F94441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF69B0A0-865D-4875-B1CD-6E04E87D2735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF69B0A0-865D-4875-B1CD-6E04E87D2735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF69B0A0-865D-4875-B1CD-6E04E87D2735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF69B0A0-865D-4875-B1CD-6E04E87D2735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
